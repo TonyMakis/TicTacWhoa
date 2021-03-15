@@ -1,0 +1,2 @@
+export const UPDATE_TIC_TAC_TOE = 'UPDATE_TIC_TAC_TOE';
+export const RESET_TIC_TAC_TOE = 'RESET_TIC_TAC_TOE';
